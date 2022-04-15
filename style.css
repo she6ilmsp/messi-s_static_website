@@ -1,0 +1,31 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'QUARTZO', sans-serif;
+}
+
+.header_row{
+    height: 8em;
+    padding-top: 1.8em;
+}
+
+.header_title{
+    color: white;
+    font-size: 4em;
+}
+
+.numbers{
+    display: inline-block;
+    font-size: 64px;
+    transform: scale(1, 2);
+    padding-top: 0.3em;
+    width: 32%;
+}
+
+.session{
+    width: 32%;
+    display: inline-block;
+    margin-bottom: 1.5em;
+}
