@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'QUARTZO';
+    font-style: normal;
+    font-weight: normal;
+    src: local('QUARTZO Bold'), url('Font/QUARTZO-Bold.woff') format('woff');
+    }
 body{
     font-family: 'QUARTZO', sans-serif;
 }
